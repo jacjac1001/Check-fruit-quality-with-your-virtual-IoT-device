@@ -37,3 +37,12 @@ You can either add a file in your computer or use your built-in webcam.
 python app.py
 ````
 > We're done!
+### Import image from your webcam
+- Ensure sufficient lighting and put the fruit you want to check on the cam.
+- Type this in app.py:
+````
+python app.py
+````
+> [!NOTE]
+> You have to hold the fruit still until you complete typing the command.
+> The image is only be captured after you type that command, not by clicking set.
