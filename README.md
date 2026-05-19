@@ -29,5 +29,11 @@ http://127.0.0.1:5000
 - In the 'Sensors' section, in the sensor type, choose 'camera'
 - Name it 'Picamera'
 You can either add a file in your computer or use your built-in webcam.
-### Import file from your computer
-- Your image must be .jpg, .png, .bmp, or .gif format
+### Import image from your computer
+- Your image must be `.jpg`, `.png`, `.bmp`, or `.gif` format.
+- After importing your image, click set.
+- In your app.py, type this in the second terminal:
+````
+python app.py
+````
+> We're done!
