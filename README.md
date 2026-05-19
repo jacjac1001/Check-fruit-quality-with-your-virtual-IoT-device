@@ -5,6 +5,9 @@
 - Create a Python virtual environment.
 - Install the following libraries:
 ````
+pip install counterfit
+````
+````
 pip install azure-cognitiveservices-vision-customvision
 ````
 ````
