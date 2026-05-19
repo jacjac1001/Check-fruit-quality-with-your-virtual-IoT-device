@@ -27,7 +27,7 @@ http://127.0.0.1:5000
 ## counterFIt webapp
 - Ignore the 'Actuators' section.
 - In the 'Sensors' section, in the sensor type, choose 'camera'
-- Name it 'Picamera'
+- Name it `Picamera`
 You can either add a file in your computer or use your built-in webcam.
 ### Import image from your computer
 - Your image must be `.jpg`, `.png`, `.bmp`, or `.gif` format.
