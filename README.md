@@ -17,7 +17,7 @@ pip install counterfit-shims-picamera
 ## Code and run your app.py
 Source code: [app.py](https://github.com/jacjac1001/Check-fruit-quality-with-your-virtual-IoT-device/blob/main/app.py)
 
-- After pasting the code, do not click "run code" but you need to open two seperate terminals.
+- After pasting the code, do not click "run code" but you need to open **two seperate** terminals.
 - In the first terminal, type in:
 ````
 counterfit
@@ -28,10 +28,10 @@ http://127.0.0.1:5000
 ````
 
 ## counterFIt webapp
-- Ignore the 'Actuators' section.
-- In the 'Sensors' section, in the sensor type, choose 'camera'
-- Name it `Picamera`
-You can either add a file in your computer or use your built-in webcam.
+- Ignore the `Actuators` section.
+- In the 'Sensors' section, in the sensor type, choose `camera`.
+- Name it `Picamera`.
+- You can either add a file in your computer or use your built-in webcam.
 ### Import image from your computer
 - Your image must be `.jpg`, `.png`, `.bmp`, or `.gif` format.
 - After importing your image, click set.
